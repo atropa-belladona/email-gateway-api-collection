@@ -19,7 +19,7 @@ http:
           "blackshields99@gmail.com"
           ], 
         "subject": "test dulu aja",
-        "html_body": "<b>Test Bold</b>"
+        "html_body": "<b>Hello from Gateway</b>"
       }
   auth:
     type: bearer

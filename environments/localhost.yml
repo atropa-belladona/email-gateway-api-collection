@@ -3,4 +3,8 @@ variables:
   - name: base_url
     value: http://localhost:8080/api
   - name: token
-    value: mail_live_dcvoqze89v8gdrdzdfykthvcuqzpo8w33tf2iia7
+    value: mail_live_srtdvv4hv0rv6mwfzzebzxmkx7yjlm9xdcsydj0w
+  - name: mail_gateway_internal_secret
+    value: this-is-a-secret
+  - name: mail_gateway_bounce_ingest
+    value: this-is-a-secret
