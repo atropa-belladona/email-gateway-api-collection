@@ -1,0 +1,6 @@
+name: localhost
+variables:
+  - name: base_url
+    value: http://localhost:8080/api
+  - name: token
+    value: mail_live_dcvoqze89v8gdrdzdfykthvcuqzpo8w33tf2iia7
